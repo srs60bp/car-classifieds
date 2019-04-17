@@ -4,8 +4,10 @@ car-classifieds
 Car Classifieds Script
 
     version 1.0 price: free 7,322 downloads 
+    https://www.phpjabbers.com/free-car-classifieds-script/
 
     Car Classifieds Script view demo
+    http://demo.phpjabbers.com/freescripts/car-classifieds/cars.php
 
 A simple car classifieds script designed to provide your car listing website with fancy flip card effect classified ads page. List and publish car classifieds in a modern and attractive way with our easy and free to use car listing script.
 
